@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>完善你的信息吧</string>
+		<key>detailText</key>
+		<string>个人信息</string>
+		<key>profileImageUrl</key>
+		<string>touxiang3.png</string>
+	</dict>
+	<dict>
+		<key>profileImageUrl</key>
+		<string>touxiang4.png</string>
+		<key>detailText</key>
+		<string>交易信息</string>
+		<key>text</key>
+		<string>你的买卖信息啦</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>我们为你提供哦</string>
+		<key>detailText</key>
+		<string>服务条款</string>
+		<key>profileImageUrl</key>
+		<string>touxiang2.png</string>
+	</dict>
+</array>
+</plist>
